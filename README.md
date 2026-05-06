@@ -1,6 +1,6 @@
 ***OPSC6311***
 
-Github link:
+Github link:https://github.com/ST10452013/BudgetApp.git
 
 Youtube link:
 
